@@ -1,4 +1,4 @@
 <?php
-// Tu código PHP irá aquí
+// Tu código PHP irá aquí y otras cosas más
 ?>
                         
