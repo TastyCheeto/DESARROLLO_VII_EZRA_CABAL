@@ -1,5 +1,5 @@
 <?php
-class Libro {
+class Libro implements Prestable{
     private $titulo;
     private $autor;
     private $anioPublicacion;

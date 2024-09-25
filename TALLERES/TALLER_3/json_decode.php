@@ -26,7 +26,7 @@ $jsonComplejo = '{
     "direccion": {
         "calle": "Calle Principal",
         "numero": 123,
-        "ciudad": "Barcelona"
+        "ciudad": "Barcelo`n0b9 gvfdna"
     }
 }';
 $datosComplejos = json_decode($jsonComplejo, true);
